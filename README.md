@@ -1,0 +1,1 @@
+This GitHub repository contains some Computational-Physics projects. The aim is to obtain optimized simulations. All the documentation relative to each project is contained in the report inside each directory.
